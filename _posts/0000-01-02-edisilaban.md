@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"I'll fight anybody. I'll fight everybody"
+"Be Your Self"
 Use the left arrow to go back!
